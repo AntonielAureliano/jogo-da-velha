@@ -12,7 +12,7 @@ let square = {
 };
 let player = "";
 let warning = "";
-let playing = false;
+let playing = true;
 
 reset();
 
